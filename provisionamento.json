@@ -1,0 +1,20 @@
+
+{
+    "devices": [
+      {
+        "device_id": "sensor_infravermelho0.1",
+        "entity_name": "urn:ngsi-ld:SensorInfravermelho:0.1",
+        "entity_type": "SensorInfravermelho",
+        "protocol": "PDI-IoTA-UltraLight",
+        "transport": "MQTT",
+        "commands": [
+          {"name": "on","type": "command"},
+          {"name": "off","type": "command"}
+        ],
+        "attributes": [
+          {"object_id": "a", "name": "increment_activation", "type": "Integer"},
+          {"object_id": "s", "name": "state", "type":"Text"}
+        ]
+      }
+    ]
+  }
