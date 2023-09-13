@@ -4,7 +4,13 @@
   <img src="https://github.com/fernandakaory/sprint3-edge/assets/126582859/34f0bd23-e519-4d59-b81a-2407b76a7918" width="300" height="100" alt="logotipo">
 </div>
 
-## Plataforma de mapeamento inteligente como nossa proposta de solução
+## Integrantes
+- Fernanda Kaory Saito – RM 551104
+- Geovanna Silva Cunha – RM 97736
+- Lana Giulia Auada Leite – RM 551143
+- Mirella de Rossi Imenez – RM 97990
+
+## Plataforma de mapeamento inteligente como nossa proposta de solução do Challenge com a IBM
 Estamos desenvolvendo uma plataforma de mapeamento dos meios de transporte sustentáveis em São Paulo. Nosso projeto visa disponibilizar informações sobre as frotas de trens, metrôs, linhas de ônibus
 elétricos e pontos de bicicletas compartilhadas disponíveis na cidade. Um dos focos principais é o baixo investimento recebido pelas linhas elétricas de ônibus.
 Nossa plataforma irá disponibilizar ao usuário meios de transporte exclusivamente sustentáveis. Além disso, visamos melhorar constantemente nossos serviços, assim, forneceremos ao usuário a opção de “Feedback”, a
