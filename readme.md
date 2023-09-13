@@ -58,7 +58,7 @@ A base front-end deste projeto, é, basicamente, o site desenvolvido a partir da
 ![Imagem do WhatsApp de 2023-09-10 à(s) 19 32 53](https://github.com/fernandakaory/sprint3-edge/assets/126582859/5a39eb69-c3b9-4e72-b2bc-95879900972a)
 
 ## Requisitos do projeto
-- Docler e docker compose
+- Docker e docker compose
 - Fiware
 - Postman
 - ESP 32 e sensores de proximidade infravermelho E18-D80NK
