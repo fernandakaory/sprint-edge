@@ -1,0 +1,15 @@
+{
+    "description": "Sensor Infravermelho Commands",
+    "dataProvided": {
+      "entities": [
+        {
+          "id": "urn:ngsi-ld:SensorInfravermelho:0.2", "type": "SensorInfravermelho"
+        }
+      ],
+      "attrs": [ "on", "off" ]
+    },
+    "provider": {
+      "http": {"url": "http://{{url}}:4041"},
+      "legacyForwarding": true
+    }
+  }
