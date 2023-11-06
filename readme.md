@@ -55,11 +55,11 @@ Para o Back-end do projeto será utilizado o Fiware. Esta, é uma plataforma de 
 <h3>Front-end</h3>
 A base front-end que está sendo utilizada neste projeto na fase atual, é, basicamente, o <a href=https://freeboard.io/> freeboard </a>, uma plataforma que nos oferece todos os recursos necessários para a exibição dos dados de lotação que são enviados por MQTT, a partir do Fiware Orion. Assim é possível vizualizar os dados captados pelos sensores de maneira simples e intuitiva. Escolhemos o freeboard com o intuíto de ser simples e de fácil utilização, para garantir  acessibilidade e uma boa experiência.
 
-<div>
+<div align="center">
   
-  <img src="https://github.com/fernandakaory/sprint-edge/assets/126582859/0c402054-51ce-458e-94d4-6b334f72ed4b" width="300" >
-  <img src="https://github.com/fernandakaory/sprint-edge/assets/126582859/bb98b7ad-7137-41fe-9c67-7894eaf4a095" width="300">
-  <img src="https://github.com/fernandakaory/sprint-edge/assets/126582859/865fd769-c468-454f-b3a1-91394e4f72d5" width="300">
+  <img src="https://github.com/fernandakaory/sprint-edge/assets/126582859/0c402054-51ce-458e-94d4-6b334f72ed4b" width="200" >
+  <img src="https://github.com/fernandakaory/sprint-edge/assets/126582859/bb98b7ad-7137-41fe-9c67-7894eaf4a095" width="200">
+  <img src="https://github.com/fernandakaory/sprint-edge/assets/126582859/865fd769-c468-454f-b3a1-91394e4f72d5" width="200">
 </div>
 
 
