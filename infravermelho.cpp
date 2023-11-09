@@ -8,15 +8,12 @@
 #define TOPICO_PUBLISH      "/TEF/sensor_infravermelho0.2/attrs"      //tópico MQTT de envio do tópico para ativar ou desativar o sensor até o Broker
 #define TOPICO_PUBLISH_2    "/TEF/sensor_infravermelho0.2/attrs/a"    //tópico MQTT de envio da quantidade de passageiros para o Broker
 #define TOPICO_PUBLISH_3    "/TEF/sensor_infravermelho0.2/attrs/l"    //tópico MQTT de envio da lotação para Broker
-                                                      //IMPORTANTE: recomendamos fortemente alterar os nomes
-                                                      //            desses tópicos. Caso contrário, há grandes
-                                                      //            chances de você controlar e monitorar o ESP32
-                                                      //            de outra pessoa.
+                                                      
 #define ID_MQTT  "fiware_0.2"      //definição do id mqtt
 
 // WIFI
-const char* SSID = "Helena"; // SSID / nome da rede WI-FI que deseja se conectar
-const char* PASSWORD = "maria@210259"; // Senha da rede WI-FI que deseja se conectar
+const char* SSID = "nome do wifi"; // SSID / nome da rede WI-FI que deseja se conectar
+const char* PASSWORD = "senha do wifi"; // Senha da rede WI-FI que deseja se conectar
   
 // MQTT
 const char* BROKER_MQTT = "46.17.108.113"; //URL do broker MQTT que se deseja utilizar
